@@ -278,7 +278,7 @@ A lightweight, online service for when you don’t have the time, resources, or 
  - [Hacker101](https://www.hacker101.com/) - CTF Platform by [HackerOne](https://www.hackerone.com/).
  - [MicroCorruption](https://microcorruption.com/) - Embedded Security CTF.
  - [OverTheWire](https://overthewire.org/wargames/) - Wargame offered by the OverTheWire community.
- - [picoCTF2019](https://2019game.picoctf.com/) - Beginner friendly CTF platform.
+ - [picoCTF2019](https://2019game.picoctf.com/) - Beginner-friendly CTF platform.
  - [PWNChallenge](http://pwn.eonew.cn/) - Pwn/Exploiting platform.
  - [Pwnable.kr](http://pwnable.kr/) - Pwn/Exploiting platform.
  - [Pwnable.tw](https://pwnable.tw/) - Pwn/Exploiting platform.
@@ -295,6 +295,10 @@ A lightweight, online service for when you don’t have the time, resources, or 
 
  - [Damn Vulnerable Web Application](https://dvwa.co.uk/) - PHP/MySQL web application that is damn vulnerable.
  - [Juice Shop](https://github.com/juice-shop/juice-shop-ctf) - Capture-the-Flag (CTF) environment setup tools for OWASP Juice Shop. 
+
+## Collaborative Tools
+
+ - [CTFNote](https://github.com/TFNS/CTFNote) - Collaborative tool aiming to help CTF teams to organise their work.
 
 ## Writeups Repositories
 
