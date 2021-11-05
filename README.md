@@ -1,4 +1,4 @@
-# Awesome CTF tools [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
+# Awesome CTF resources [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
 
 A list of [Capture The Flag](https://en.wikipedia.org/wiki/Capture_the_flag#Computer_security) (CTF) frameworks, libraries, resources and software for started/experienced CTF players 🚩 
 
@@ -19,11 +19,11 @@ Any contribution is welcome, send me a PR! ❤️
     - [Web](#web)
 
  - [Solve](#0x01-solve)
-    - [Cryptography](#cryptography-1)
+    - [Cryptography](#cryptography)
     - [Exploiting / Pwn](#exploiting--pwn)
     - [Forensics](#forensics-1)
     - [Misc](#misc)
-    - [Reversing](#reversing-1)
+    - [Reversing](#reversing)
     - [Steganography](#steganography-1)
     - [Web](#web-1)
 
@@ -278,6 +278,7 @@ A lightweight, online service for when you don’t have the time, resources, or 
  - [Hacker101](https://www.hacker101.com/) - CTF Platform by [HackerOne](https://www.hackerone.com/).
  - [MicroCorruption](https://microcorruption.com/) - Embedded Security CTF.
  - [OverTheWire](https://overthewire.org/wargames/) - Wargame offered by the OverTheWire community.
+ - [picoCTF2019](https://2019game.picoctf.com/) - Beginner friendly CTF platform.
  - [PWNChallenge](http://pwn.eonew.cn/) - Pwn/Exploiting platform.
  - [Pwnable.kr](http://pwnable.kr/) - Pwn/Exploiting platform.
  - [Pwnable.tw](https://pwnable.tw/) - Pwn/Exploiting platform.
@@ -288,6 +289,7 @@ A lightweight, online service for when you don’t have the time, resources, or 
  - [VulnHub](https://www.vulnhub.com/) - VM-based pentesting platform.
  - [W3Challs](https://w3challs.com/) - Hacking/CTF platform.
  - [WebHacking](https://webhacking.kr/) - Web challenges platform.
+ - [Websec.fr](http://websec.fr/) - Web challenges platform.
 
 *Self-hosted CTFs*
 
