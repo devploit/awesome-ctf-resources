@@ -30,6 +30,7 @@ Any contribution is welcome, send me a PR! ❤️
  - [Resources](#0x02-resources)
     - [Online Platforms](#online-platforms)
     - [Writeups Repositories](#writeups-repositories)
+    - [Collaborative Tools](#collaborative-tools)
 
  - [Bibliography](#0x03-bibliography)
 
