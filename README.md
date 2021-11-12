@@ -53,6 +53,7 @@ Any contribution is welcome, send me a PR! ❤️
  - [picoCTF](https://github.com/picoCTF/picoCTF) - Infrastructure used to run picoCTF.
  - [rCTF](https://github.com/redpwn/rctf) - CTF platform maintained by the [redpwn](https://github.com/redpwn/rctf) CTF team.
  - [RootTheBox](https://github.com/moloch--/RootTheBox) - CTF scoring engine for wargames.
+ - [ImaginaryCTF](https://github.com/Et3rnos/ImaginaryCTF) - Platform to host CTFs.
 
 ## Forensics
 
@@ -102,6 +103,8 @@ Check [solve section for steganography](#steganography-1).
  - [Vigenere Solver](https://www.guballa.de/vigenere-solver) - Online tool that breaks Vigenère ciphers without knowing the key.
  - [XORTool](https://github.com/hellman/xortool) - A tool to analyze multi-byte xor cipher.
  - [yagu](https://sourceforge.net/projects/yafu/) - Automated integer factorization.
+ - [Crackstation](https://crackstation.net/) - Hash cracker (database).
+ - [Online Encyclopedia of Integer Sequences](https://oeis.org/) - OEIS: The On-Line Encyclopedia of Integer Sequences
 
 ## Exploiting / Pwn
 
@@ -232,6 +235,7 @@ A lightweight, online service for when you don’t have the time, resources, or 
  - [StegoVeritas](https://github.com/bannsec/stegoVeritas) - Yet another stego tool.
  - [Stegsolve](https://github.com/zardus/ctf-tools/tree/master/stegsolve) - Apply various steganography techniques to images.
  - [Zsteg](https://github.com/zed-0xff/zsteg/) - PNG/BMP analysis.
+ - [BPStegano](https://github.com/TapanSoni/BPStegano) - Python3 based LSB steganography. 
 
 ## Web 
 
