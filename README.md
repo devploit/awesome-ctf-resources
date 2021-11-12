@@ -55,7 +55,6 @@ Any contribution is welcome, send me a PR! ❤️
  - [RootTheBox](https://github.com/moloch--/RootTheBox) - CTF scoring engine for wargames.
  - [ImaginaryCTF](https://github.com/Et3rnos/ImaginaryCTF) - Platform to host CTFs.
 
-
 ## Forensics
 
 *Tools used to create Forensics challenges*
@@ -106,7 +105,6 @@ Check [solve section for steganography](#steganography-1).
  - [yagu](https://sourceforge.net/projects/yafu/) - Automated integer factorization.
  - [Crackstation](https://crackstation.net/) - Hash cracker (database).
  - [Online Encyclopedia of Integer Sequences](https://oeis.org/) - OEIS: The On-Line Encyclopedia of Integer Sequences
- - 
 
 ## Exploiting / Pwn
 
