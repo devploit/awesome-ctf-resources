@@ -4,7 +4,7 @@ A list of [Capture The Flag](https://en.wikipedia.org/wiki/Capture_the_flag#Comp
 
 Any contribution is welcome, send me a PR! ❤️
 
-*- The programs and resources collected do not belong to me and have been compiled for educational purposes only -*
+*-The software and resources collected do not belong to me and have been compiled for educational purposes only-*
 
 <p align="center">
 <img src="https://i.imgur.com/d4aShjQ.jpg" width="600" height="300" >
