@@ -295,6 +295,7 @@ A lightweight, online service for when you don’t have the time, resources, or 
  - [W3Challs](https://w3challs.com/) - Hacking/CTF platform.
  - [WebHacking](https://webhacking.kr/) - Web challenges platform.
  - [Websec.fr](http://websec.fr/) - Web challenges platform.
+ - [We Chall](https://www.wechall.net/active_sites) - Challenge sites directory & forum
 
 *Self-hosted CTFs*
 
