@@ -318,7 +318,7 @@ A lightweight, online service for when you don’t have the time, resources, or 
 
 ## Courses
 
- - [Roppers Bootcamp](https://www.roppers.org/courses/ctf) - CTF Bootcamp
+ - [Roppers Bootcamp](https://www.roppers.org/courses/ctf) - CTF Bootcamp.
 
 # 0x03. Bibliography
 
