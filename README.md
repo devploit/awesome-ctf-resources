@@ -29,8 +29,9 @@ Any contribution is welcome, send me a PR! ❤️
 
  - [Resources](#0x02-resources)
     - [Online Platforms](#online-platforms)
-    - [Writeups Repositories](#writeups-repositories)
     - [Collaborative Tools](#collaborative-tools)
+    - [Writeups Repositories](#writeups-repositories)
+    - [Courses](#courses)
 
  - [Bibliography](#0x03-bibliography)
 
@@ -232,6 +233,7 @@ A lightweight, online service for when you don’t have the time, resources, or 
  - [Steghide](http://steghide.sourceforge.net/) - Hide data in various kinds of image- and audio-files.
  - [StegOnline](https://stegonline.georgeom.net/) - Conduct a wide range of image steganography operations, such as concealing/revealing files hidden within bits.
  - [Stegosaurus](https://github.com/AngelKitty/stegosaurus) - A steganography tool for embedding payloads within Python bytecode.
+ - [stegsnow](https://manpages.ubuntu.com/manpages/trusty/man1/stegsnow.1.html) - Whitespace steganography program.
  - [StegoVeritas](https://github.com/bannsec/stegoVeritas) - Yet another stego tool.
  - [Stegsolve](https://github.com/zardus/ctf-tools/tree/master/stegsolve) - Apply various steganography techniques to images.
  - [Zsteg](https://github.com/zed-0xff/zsteg/) - PNG/BMP analysis.
@@ -313,6 +315,10 @@ A lightweight, online service for when you don’t have the time, resources, or 
  - [Courgettes.Club](https://ctf.courgettes.club/) - CTF Writeup Finder.
  - [CTFtime](https://ctftime.org/writeups) - CTFtime Writeups Collection.
  - [Github.com/CTFs](https://github.com/ctfs) - Collection of CTF Writeups.
+
+## Courses
+
+ - [Roppers Bootcamp](https://www.roppers.org/courses/ctf) - CTF Bootcamp
 
 # 0x03. Bibliography
 
