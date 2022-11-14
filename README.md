@@ -233,8 +233,8 @@ A lightweight, online service for when you don’t have the time, resources, or 
  - [Steghide](http://steghide.sourceforge.net/) - Hide data in various kinds of image- and audio-files.
  - [StegOnline](https://stegonline.georgeom.net/) - Conduct a wide range of image steganography operations, such as concealing/revealing files hidden within bits.
  - [Stegosaurus](https://github.com/AngelKitty/stegosaurus) - A steganography tool for embedding payloads within Python bytecode.
- - [stegsnow](https://manpages.ubuntu.com/manpages/trusty/man1/stegsnow.1.html) - Whitespace steganography program.
  - [StegoVeritas](https://github.com/bannsec/stegoVeritas) - Yet another stego tool.
+ - [stegsnow](https://manpages.ubuntu.com/manpages/trusty/man1/stegsnow.1.html) - Whitespace steganography program.
  - [Stegsolve](https://github.com/zardus/ctf-tools/tree/master/stegsolve) - Apply various steganography techniques to images.
  - [Zsteg](https://github.com/zed-0xff/zsteg/) - PNG/BMP analysis.
  - [BPStegano](https://github.com/TapanSoni/BPStegano) - Python3 based LSB steganography. 
