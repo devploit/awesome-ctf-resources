@@ -154,7 +154,7 @@ Check [solve section for steganography](#steganography-1).
 **Bruteforcers:**
 
  - [changeme](https://github.com/ztgrace/changeme) - A default credential scanner.
- - [Hashcat](https://hashcat.net/hashcat/) - Advanced Password Recovery
+ - [Hashcat](https://hashcat.net/hashcat/) - Advanced Password Recovery.
  - [Hydra](https://www.kali.org/tools/hydra/) - Parallelized login cracker which supports numerous protocols to attack.
  - [John the Ripper](https://www.openwall.com/john/) - Open Source password security auditing and password recovery.
  - [jwt_tool](https://github.com/ticarpi/jwt_tool) - A toolkit for testing, tweaking and cracking JSON Web Tokens.
