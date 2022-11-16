@@ -164,6 +164,7 @@ Check [solve section for steganography](#steganography-1).
 
 **Esoteric Languages:**
 
+ - [Brainfuck](https://copy.sh/brainfuck/) - Brainfuck esoteric programming language IDE.
  - [Malbolge](http://www.malbolge.doleczek.pl/) - Malbolge esoteric programming language solver.
  - [Ook!](https://www.dcode.fr/ook-language) - Tool for decoding / encoding in Ook!
  - [Piet](https://www.bertnase.de/npiet/npiet-execute.php) - Piet programming language compiler.
@@ -234,6 +235,7 @@ A lightweight, online service for when you don’t have the time, resources, or 
  - [StegOnline](https://stegonline.georgeom.net/) - Conduct a wide range of image steganography operations, such as concealing/revealing files hidden within bits.
  - [Stegosaurus](https://github.com/AngelKitty/stegosaurus) - A steganography tool for embedding payloads within Python bytecode.
  - [StegoVeritas](https://github.com/bannsec/stegoVeritas) - Yet another stego tool.
+ - [stegseek](https://github.com/RickdeJager/stegseek) - Lightning fast steghide cracker that can be used to extract hidden data from files. 
  - [stegsnow](https://manpages.ubuntu.com/manpages/trusty/man1/stegsnow.1.html) - Whitespace steganography program.
  - [Stegsolve](https://github.com/zardus/ctf-tools/tree/master/stegsolve) - Apply various steganography techniques to images.
  - [Zsteg](https://github.com/zed-0xff/zsteg/) - PNG/BMP analysis.
