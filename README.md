@@ -83,6 +83,7 @@ Check [solve section for steganography](#steganography-1).
 
 *Tools used for solving Crypto challenges*
 
+ - [Base65536](https://github.com/qntm/base65536) - Unicode's answer to Base64.
  - [Ciphey](https://github.com/Ciphey/Ciphey) - Tool to automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes.
  - [CyberChef](https://gchq.github.io/CyberChef/) - A web app for encryption, encoding, compression and data analysis.
  - [Cryptii](https://cryptii.com/) - Modular conversion, encoding and encryption online.
@@ -97,6 +98,7 @@ Check [solve section for steganography](#steganography-1).
  - [PadBuster](https://github.com/AonCyberLabs/PadBuster) - Automated script for performing Padding Oracle attacks.
  - [PEMCrack](https://github.com/robertdavidgraham/pemcrack) - Cracks SSL PEM files that hold encrypted private keys. Brute forces or dictionary cracks.
  - [PKCrack](https://www.unix-ag.uni-kl.de/~conrad/krypto/pkcrack.html) - PkZip encryption cracker.
+ - [Polybius Square Cipher](https://www.braingle.com/brainteasers/codes/polybius.php) - Table that allows someone to translate letters into numbers.
  - [Quipqiup](https://quipqiup.com/) - Automated cryptogram solver.
  - [RSACTFTool](https://github.com/Ganapati/RsaCtfTool) - RSA multi attacks tool.
  - [RSATool](https://github.com/ius/rsatool) - Tool to to calculate RSA and RSA-CRT parameter.
@@ -134,9 +136,11 @@ Check [solve section for steganography](#steganography-1).
  - [Extundelete](http://extundelete.sourceforge.net/) - Utility that can recover deleted files from an ext3 or ext4 partition.
  - [firmware-mod-kit](https://code.google.com/archive/p/firmware-mod-kit/) - Modify firmware images without recompiling.
  - [Foremost](http://foremost.sourceforge.net/) - Console program to recover files based on their headers, footers, and internal data structures.
+ - [Forensically](https://29a.ch/photo-forensics/#forensic-magnifier) - Free online tool to analysis image this tool has many features.
  - [MZCacheView](https://www.nirsoft.net/utils/mozilla_cache_viewer.html) - Small utility that reads the cache folder of Firefox/Mozilla/Netscape Web browsers, and displays the list of all files currently stored in the cache.
  - [NetworkMiner](https://www.netresec.com/index.ashx?page=NetworkMiner)  Network Forensic Analysis Tool (NFAT).
  - [OfflineRegistryView](https://www.nirsoft.net/utils/offline_registry_view.html) - Simple tool for Windows that allows you to read offline Registry files from external drive.
+ - [photorec](https://www.cgsecurity.org/wiki/PhotoRec) - File data recovery software designed to recover lost files including video, documents and archives from hard disks, CD-ROMs, and lost pictures (thus the Photo Recovery name) from digital camera memory.
  - [Registry Viewer](https://accessdata.com/product-download/registry-viewer-2-0-0) - Tool to view Windows registers.
  - [Scalpel](https://github.com/sleuthkit/scalpel) - Open source data carving tool.
  - [USBRip](https://github.com/snovvcrash/usbrip) - Simple CLI forensics tool for tracking USB device artifacts (history of USB events) on GNU/Linux.
@@ -165,9 +169,13 @@ Check [solve section for steganography](#steganography-1).
 **Esoteric Languages:**
 
  - [Brainfuck](https://copy.sh/brainfuck/) - Brainfuck esoteric programming language IDE.
+ - [COW](https://frank-buss.de/cow.html) - It is a Brainfuck variant designed humorously with Bovinae in mind.
  - [Malbolge](http://www.malbolge.doleczek.pl/) - Malbolge esoteric programming language solver.
  - [Ook!](https://www.dcode.fr/ook-language) - Tool for decoding / encoding in Ook!
  - [Piet](https://www.bertnase.de/npiet/npiet-execute.php) - Piet programming language compiler.
+ - [Rockstar](https://codewithrockstar.com/online) - A language intended to look like song lyrics.
+ - [Try It Online](https://tio.run/) - An online tool that has a ton of Esoteric language interpreters.
+
 
 **Sandboxes:**
 
@@ -192,6 +200,7 @@ Check [solve section for steganography](#steganography-1).
  - [Disassembler.io](https://onlinedisassembler.com/static/home/index.html) - Disassemble On Demand. 
 A lightweight, online service for when you don’t have the time, resources, or requirements to use a heavier-weight alternative.
  - [dnSpy](https://github.com/dnSpy/dnSpy) - .NET debugger and assembly editor.
+ - [EasyPythonDecompiler](https://sourceforge.net/projects/easypythondecompiler/) - A small .exe GUI application that will "decompile" Python bytecode, often seen in .pyc extension.
  - [Frida](https://github.com/frida/) - Dynamic instrumentation toolkit for developers, reverse-engineers, and security researchers.
  - [GDB](https://www.gnu.org/software/gdb/) - The GNU Project debugger.
  - [GEF](https://github.com/hugsy/gef) - A modern experience for GDB with advanced debugging features for exploit developers & reverse engineers.
@@ -205,6 +214,7 @@ A lightweight, online service for when you don’t have the time, resources, or 
  - [Objection](https://github.com/sensepost/objection) - Runtime mobile exploration.
  - [Online Assembler/Disassembler](http://shell-storm.org/online/Online-Assembler-and-Disassembler/) - Online wrappers around the Keystone and Capstone projects.
  - [PEDA](https://github.com/longld/peda) - Python Exploit Development Assistance for GDB.
+ - [PEfile](https://github.com/erocarrera/pefile) - Python module to read and work with PE (Portable Executable) files.
  - [Pwndbg](https://github.com/pwndbg/pwndbg) - Exploit Development and Reverse Engineering with GDB Made Easy.
  - [radare2](https://github.com/radareorg/radare2) - UNIX-like reverse engineering framework and command-line toolset.
  - [Rizin](https://github.com/rizinorg/rizin) - Rizin is a fork of the radare2 reverse engineering framework with a focus on usability, working features and code cleanliness.
@@ -217,10 +227,13 @@ A lightweight, online service for when you don’t have the time, resources, or 
 *Tools used for solving Stego challenges*
 
  - [AperiSolve](https://aperisolve.fr/) - Platform which performs layer analysis on images.
+ - [DTMF Tones](http://dialabc.com/sound/detect/index.html) - Audio frequencies common to a phone button.
  - [Exif](http://manpages.ubuntu.com/manpages/trusty/man1/exif.1.html) - Shows EXIF information in JPEG files.
  - [Exiv2](https://www.exiv2.org/manpage.html) - Image metadata manipulation tool.
+ - [hipshot](https://bitbucket.org/eliteraspberries/hipshot/src/master/) - Tool to converts a video file or series of photographs into a single image simulating a long-exposure photograph.
  - [Image Steganography](https://incoherency.co.uk/image-steganography/) - Client-side Javascript tool to steganographically hide/unhide images inside the lower "bits" of other images. 
  - [ImageMagick](http://www.imagemagick.org/script/index.php) - Tool for manipulating images.
+ - [jsteg](https://github.com/lukechampine/jsteg) - Command-line tool to use against JPEG images.
  - [Outguess](https://www.freebsd.org/cgi/man.cgi?query=outguess+&apropos=0&sektion=0&manpath=FreeBSD+Ports+5.1-RELEASE&format=html) - Universal steganographic tool.
  - [Pngcheck](http://www.libpng.org/pub/png/apps/pngcheck.html) - Verifies the integrity of PNG and dump all of the chunk-level information in human-readable form.
  - [Pngtools](https://packages.debian.org/sid/pngtools) - For various analysis related to PNGs.
@@ -253,6 +266,7 @@ A lightweight, online service for when you don’t have the time, resources, or 
  - [dirsearch](https://github.com/maurosoria/dirsearch) - Web path scanner.
  - [dontgo403](https://github.com/devploit/dontgo403) - Tool to bypass 40x errors.
  - [ffuf](https://github.com/ffuf/ffuf) - Fast web fuzzer written in Go.
+ - [Hookbin](https://hookbin.com/) - Free service that enables you to collect, parse, and view HTTP requests.
  - [git-dumper](https://github.com/arthaud/git-dumper) - A tool to dump a git repository from a website.
  - [Gopherus](https://github.com/tarunkant/Gopherus) - Tool that generates gopher link for exploiting SSRF and gaining RCE in various servers.
  - [ngrok](https://ngrok.com/) - Secure introspectable tunnels to localhost.
