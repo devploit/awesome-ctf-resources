@@ -237,6 +237,7 @@ A lightweight, online service for when you don’t have the time, resources, or 
  - [Outguess](https://www.freebsd.org/cgi/man.cgi?query=outguess+&apropos=0&sektion=0&manpath=FreeBSD+Ports+5.1-RELEASE&format=html) - Universal steganographic tool.
  - [Pngcheck](http://www.libpng.org/pub/png/apps/pngcheck.html) - Verifies the integrity of PNG and dump all of the chunk-level information in human-readable form.
  - [Pngtools](https://packages.debian.org/sid/pngtools) - For various analysis related to PNGs.
+ - [sigBits](https://github.com/Pulho/sigBits) - Steganography significant bits image decoder.
  - [SmartDeblur](https://github.com/Y-Vladimir/SmartDeblur) - Restoration of defocused and blurred photos/images.
  - [Snow](https://sbmlabs.com/notes/snow_whitespace_steganography_tool) - Whitespace Steganography Tool
  - [Sonic Visualizer](https://www.sonicvisualiser.org/) - Audio file visualization.
