@@ -227,6 +227,7 @@ A lightweight, online service for when you don’t have the time, resources, or 
 *Tools used for solving Stego challenges*
 
  - [AperiSolve](https://aperisolve.fr/) - Platform which performs layer analysis on images.
+ - [BPStegano](https://github.com/TapanSoni/BPStegano) - Python3 based LSB steganography. 
  - [DTMF Tones](http://dialabc.com/sound/detect/index.html) - Audio frequencies common to a phone button.
  - [Exif](http://manpages.ubuntu.com/manpages/trusty/man1/exif.1.html) - Shows EXIF information in JPEG files.
  - [Exiv2](https://www.exiv2.org/manpage.html) - Image metadata manipulation tool.
@@ -253,7 +254,7 @@ A lightweight, online service for when you don’t have the time, resources, or 
  - [stegsnow](https://manpages.ubuntu.com/manpages/trusty/man1/stegsnow.1.html) - Whitespace steganography program.
  - [Stegsolve](https://github.com/zardus/ctf-tools/tree/master/stegsolve) - Apply various steganography techniques to images.
  - [Zsteg](https://github.com/zed-0xff/zsteg/) - PNG/BMP analysis.
- - [BPStegano](https://github.com/TapanSoni/BPStegano) - Python3 based LSB steganography. 
+
 
 ## Web 
 
@@ -267,18 +268,19 @@ A lightweight, online service for when you don’t have the time, resources, or 
  - [dirsearch](https://github.com/maurosoria/dirsearch) - Web path scanner.
  - [dontgo403](https://github.com/devploit/dontgo403) - Tool to bypass 40x errors.
  - [ffuf](https://github.com/ffuf/ffuf) - Fast web fuzzer written in Go.
- - [Hookbin](https://hookbin.com/) - Free service that enables you to collect, parse, and view HTTP requests.
  - [git-dumper](https://github.com/arthaud/git-dumper) - A tool to dump a git repository from a website.
  - [Gopherus](https://github.com/tarunkant/Gopherus) - Tool that generates gopher link for exploiting SSRF and gaining RCE in various servers.
+ - [Hookbin](https://hookbin.com/) - Free service that enables you to collect, parse, and view HTTP requests.
+ - [JSFiddle](https://jsfiddle.net/) - Test your JavaScript, CSS, HTML or CoffeeScript online with JSFiddle code editor.
  - [ngrok](https://ngrok.com/) - Secure introspectable tunnels to localhost.
  - [OWASP Zap](https://owasp.org/www-project-zap/) - Intercepting proxy to replay, debug, and fuzz HTTP requests and responses.
- - [Postman](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop?hl=en) - Addon for chrome for debugging network requests.
- - [Smuggler](https://github.com/defparam/smuggler) -  An HTTP Request Smuggling / Desync testing tool written in Python3.
- - [SQLMap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool.
  - [PHPGGC](https://github.com/ambionics/phpggc) - Library of PHP unserialize() payloads along with a tool to generate them, from command line or programmatically.
- - [Revelo](http://www.kahusecurity.com/posts/revelo_javascript_deobfuscator.html) - Analyze obfuscated Javascript code.
+ - [Postman](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop?hl=en) - Addon for chrome for debugging network requests.
  - [REQBIN](https://reqbin.com/) - Online REST & SOAP API Testing Tool.
  - [Request Bin](https://requestbin.com/) - A modern request bin to inspect any event by Pipedream.
+ - [Revelo](http://www.kahusecurity.com/posts/revelo_javascript_deobfuscator.html) - Analyze obfuscated Javascript code.
+ - [Smuggler](https://github.com/defparam/smuggler) -  An HTTP Request Smuggling / Desync testing tool written in Python3.
+ - [SQLMap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool.
  - [W3af](https://github.com/andresriancho/w3af) - Web application attack and audit framework.
  - [XSSer](https://xsser.03c8.net/) - Automated XSS testor.
  - [ysoserial](https://github.com/frohoff/ysoserial) - Tool for generating payloads that exploit unsafe Java object deserialization.
@@ -297,16 +299,16 @@ A lightweight, online service for when you don’t have the time, resources, or 
  - [CryptoHack](https://cryptohack.org/) - Cryptography Challenges.
  - [Cryptopals](https://cryptopals.com/) - Cryptography Challenges. 
  - [echoCTF.RED](https://echoctf.red/) - Online Hacking Laboratories.
+ - [Hacker101](https://www.hacker101.com/) - CTF Platform by [HackerOne](https://www.hackerone.com/).
  - [HackTheBox](https://www.hackthebox.com/) - A Massive Hacking Playground.
  - [HackThisSite](https://www.hackthissite.org/) - Free, safe and legal training ground for hackers.
- - [Hacker101](https://www.hacker101.com/) - CTF Platform by [HackerOne](https://www.hackerone.com/).
  - [MicroCorruption](https://microcorruption.com/) - Embedded Security CTF.
  - [OverTheWire](https://overthewire.org/wargames/) - Wargame offered by the OverTheWire community.
  - [picoCTF](https://picoctf.org/) - Beginner-friendly CTF platform.
- - [PWNChallenge](http://pwn.eonew.cn/) - Pwn/Exploiting platform.
  - [Pwnable.kr](http://pwnable.kr/) - Pwn/Exploiting platform.
  - [Pwnable.tw](https://pwnable.tw/) - Pwn/Exploiting platform.
  - [Pwnable.xyz](https://pwnable.xyz/) - Pwn/Exploiting platform.
+ - [PWNChallenge](http://pwn.eonew.cn/) - Pwn/Exploiting platform.
  - [Reversing.kr](http://reversing.kr/) - Reverse Engineering platform.
  - [Root-me](https://www.root-me.org/) - CTF training platform.
  - [VibloCTF](https://ctf.viblo.asia/landing) - CTF training platform.
@@ -314,7 +316,7 @@ A lightweight, online service for when you don’t have the time, resources, or 
  - [W3Challs](https://w3challs.com/) - Hacking/CTF platform.
  - [WebHacking](https://webhacking.kr/) - Web challenges platform.
  - [Websec.fr](http://websec.fr/) - Web challenges platform.
- - [We Chall](https://www.wechall.net/active_sites) - Challenge sites directory & forum
+ - [WeChall](https://www.wechall.net/active_sites) - Challenge sites directory & forum
 
 *Self-hosted CTFs*
 
@@ -341,6 +343,6 @@ A lightweight, online service for when you don’t have the time, resources, or 
 
 *The resources presented here have been gathered from numerous sources. However, the most important are:*
 
- - [zardus_ctf-tools](https://github.com/zardus/ctf-tools)
  - [apsdehal_awesome-ctf](https://github.com/apsdehal/awesome-ctf)
  - [vavkamil_awesome-bugbounty-tools](https://github.com/vavkamil/awesome-bugbounty-tools)
+ - [zardus_ctf-tools](https://github.com/zardus/ctf-tools)
