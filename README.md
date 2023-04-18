@@ -264,6 +264,7 @@ A lightweight, online service for when you don’t have the time, resources, or 
  - [Beautifier.io](https://beautifier.io/) - Online JavaScript Beautifier.
  - [BurpSuite](https://portswigger.net/burp) - A graphical tool to testing website security.
  - [Commix](https://github.com/commixproject/commix) - Automated All-in-One OS Command Injection Exploitation Tool.
+ - [debugHunter](https://github.com/devploit/debugHunter) - Discover hidden debugging parameters and uncover web application secrets.
  - [Dirhunt](https://github.com/Nekmo/dirhunt) - Find web directories without bruteforce.
  - [dirsearch](https://github.com/maurosoria/dirsearch) - Web path scanner.
  - [dontgo403](https://github.com/devploit/dontgo403) - Tool to bypass 40x errors.
