@@ -84,6 +84,7 @@ Check [solve section for steganography](#steganography-1).
 *Tools used for solving Crypto challenges*
 
  - [Base65536](https://github.com/qntm/base65536) - Unicode's answer to Base64.
+ - [Braille Translator](https://www.branah.com/braille-translator) - Translate from braille to text.
  - [Ciphey](https://github.com/Ciphey/Ciphey) - Tool to automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes.
  - [CyberChef](https://gchq.github.io/CyberChef/) - A web app for encryption, encoding, compression and data analysis.
  - [Cryptii](https://cryptii.com/) - Modular conversion, encoding and encryption online.
@@ -104,6 +105,7 @@ Check [solve section for steganography](#steganography-1).
  - [RSATool](https://github.com/ius/rsatool) - Tool to to calculate RSA and RSA-CRT parameter.
  - [Rumkin Cipher Tools](http://rumkin.com/tools/cipher/) - Collection of ciphhers/encoders tools.
  - [Vigenere Solver](https://www.guballa.de/vigenere-solver) - Online tool that breaks Vigenère ciphers without knowing the key.
+ - [XOR Cracker](https://wiremask.eu/tools/xor-cracker/) - Online XOR decryption tool able to guess the key length and the cipher key to decrypt any file.
  - [XORTool](https://github.com/hellman/xortool) - A tool to analyze multi-byte xor cipher.
  - [yagu](https://sourceforge.net/projects/yafu/) - Automated integer factorization.
  - [Crackstation](https://crackstation.net/) - Hash cracker (database).
@@ -126,6 +128,7 @@ Check [solve section for steganography](#steganography-1).
 
 *Tools used for solving Forensics challenges*
 
+ - [A-Packets](https://apackets.com/) - Effortless PCAP File Analysis in Your Browser.
  - [Autopsy](https://www.autopsy.com/) - End-to-end open source digital forensics platform.
  - [Binwalk](https://github.com/devttys0/binwalk) - Firmware Analysis Tool.
  - [Bulk-extractor](https://github.com/simsong/bulk_extractor) - High-performance digital forensics exploitation tool.
@@ -227,14 +230,18 @@ A lightweight, online service for when you don’t have the time, resources, or 
 *Tools used for solving Stego challenges*
 
  - [AperiSolve](https://aperisolve.fr/) - Platform which performs layer analysis on images.
- - [BPStegano](https://github.com/TapanSoni/BPStegano) - Python3 based LSB steganography. 
+ - [BPStegano](https://github.com/TapanSoni/BPStegano) - Python3 based LSB steganography.
+ - [DTMF Detection](https://unframework.github.io/dtmf-detect/) - Audio frequencies common to a phone button.
  - [DTMF Tones](http://dialabc.com/sound/detect/index.html) - Audio frequencies common to a phone button.
  - [Exif](http://manpages.ubuntu.com/manpages/trusty/man1/exif.1.html) - Shows EXIF information in JPEG files.
  - [Exiv2](https://www.exiv2.org/manpage.html) - Image metadata manipulation tool.
+ - [FotoForensics](https://fotoforensics.com/) - Provides budding researchers and professional investigators access to cutting-edge tools for digital photo forensics.
  - [hipshot](https://bitbucket.org/eliteraspberries/hipshot/src/master/) - Tool to converts a video file or series of photographs into a single image simulating a long-exposure photograph.
+ - [Image Error Level Analyzer](https://29a.ch/sandbox/2012/imageerrorlevelanalysis/) - Tool to analyze digital images. It's also free and web based. It features error level analysis, clone detection and more.
  - [Image Steganography](https://incoherency.co.uk/image-steganography/) - Client-side Javascript tool to steganographically hide/unhide images inside the lower "bits" of other images. 
  - [ImageMagick](http://www.imagemagick.org/script/index.php) - Tool for manipulating images.
  - [jsteg](https://github.com/lukechampine/jsteg) - Command-line tool to use against JPEG images.
+ - [Magic Eye Solver](http://magiceye.ecksdee.co.uk/) - Get hidden information from images.
  - [Outguess](https://www.freebsd.org/cgi/man.cgi?query=outguess+&apropos=0&sektion=0&manpath=FreeBSD+Ports+5.1-RELEASE&format=html) - Universal steganographic tool.
  - [Pngcheck](http://www.libpng.org/pub/png/apps/pngcheck.html) - Verifies the integrity of PNG and dump all of the chunk-level information in human-readable form.
  - [Pngtools](https://packages.debian.org/sid/pngtools) - For various analysis related to PNGs.
@@ -250,6 +257,7 @@ A lightweight, online service for when you don’t have the time, resources, or 
  - [StegOnline](https://stegonline.georgeom.net/) - Conduct a wide range of image steganography operations, such as concealing/revealing files hidden within bits.
  - [Stegosaurus](https://github.com/AngelKitty/stegosaurus) - A steganography tool for embedding payloads within Python bytecode.
  - [StegoVeritas](https://github.com/bannsec/stegoVeritas) - Yet another stego tool.
+ - [Stegpy](https://github.com/dhsdshdhk/stegpy) - Simple steganography program based on the LSB method.
  - [stegseek](https://github.com/RickdeJager/stegseek) - Lightning fast steghide cracker that can be used to extract hidden data from files. 
  - [stegsnow](https://manpages.ubuntu.com/manpages/trusty/man1/stegsnow.1.html) - Whitespace steganography program.
  - [Stegsolve](https://github.com/zardus/ctf-tools/tree/master/stegsolve) - Apply various steganography techniques to images.
