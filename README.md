@@ -139,6 +139,7 @@ Check [solve section for steganography](#steganography-1).
  - [Extundelete](http://extundelete.sourceforge.net/) - Utility that can recover deleted files from an ext3 or ext4 partition.
  - [firmware-mod-kit](https://code.google.com/archive/p/firmware-mod-kit/) - Modify firmware images without recompiling.
  - [Foremost](http://foremost.sourceforge.net/) - Console program to recover files based on their headers, footers, and internal data structures.
+ - [Forensic Toolkit](https://www.exterro.com/forensic-toolkit) - It scans a hard drive looking for various information. It can, potentially locate deleted emails and scan a disk for text strings to use them as a password dictionary to crack encryption.
  - [Forensically](https://29a.ch/photo-forensics/#forensic-magnifier) - Free online tool to analysis image this tool has many features.
  - [MZCacheView](https://www.nirsoft.net/utils/mozilla_cache_viewer.html) - Small utility that reads the cache folder of Firefox/Mozilla/Netscape Web browsers, and displays the list of all files currently stored in the cache.
  - [NetworkMiner](https://www.netresec.com/index.ashx?page=NetworkMiner)  Network Forensic Analysis Tool (NFAT).
@@ -146,6 +147,7 @@ Check [solve section for steganography](#steganography-1).
  - [photorec](https://www.cgsecurity.org/wiki/PhotoRec) - File data recovery software designed to recover lost files including video, documents and archives from hard disks, CD-ROMs, and lost pictures (thus the Photo Recovery name) from digital camera memory.
  - [Registry Viewer](https://accessdata.com/product-download/registry-viewer-2-0-0) - Tool to view Windows registers.
  - [Scalpel](https://github.com/sleuthkit/scalpel) - Open source data carving tool.
+ - [The Sleuth Kit](https://www.sleuthkit.org/) - Collection of command line tools and a C library that allows you to analyze disk images and recover files from them.
  - [USBRip](https://github.com/snovvcrash/usbrip) - Simple CLI forensics tool for tracking USB device artifacts (history of USB events) on GNU/Linux.
  - [Volatility](https://github.com/volatilityfoundation/volatility) - An advanced memory forensics framework.
  - [Wireshark](https://www.wireshark.org/) - Tool to analyze pcap or pcapng files.
