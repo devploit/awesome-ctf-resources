@@ -101,7 +101,7 @@ Check [solve section for steganography](#steganography-1).
  - [PKCrack](https://www.unix-ag.uni-kl.de/~conrad/krypto/pkcrack.html) - PkZip encryption cracker.
  - [Polybius Square Cipher](https://www.braingle.com/brainteasers/codes/polybius.php) - Table that allows someone to translate letters into numbers.
  - [Quipqiup](https://quipqiup.com/) - Automated cryptogram solver.
- - [RSACTFTool](https://github.com/Ganapati/RsaCtfTool) - RSA multi attacks tool.
+ - [RsaCtfTool](https://github.com/RsaCtfTool/RsaCtfTool) - RSA multi attacks tool.
  - [RSATool](https://github.com/ius/rsatool) - Tool to to calculate RSA and RSA-CRT parameter.
  - [Rumkin Cipher Tools](http://rumkin.com/tools/cipher/) - Collection of ciphhers/encoders tools.
  - [Vigenere Solver](https://www.guballa.de/vigenere-solver) - Online tool that breaks Vigenère ciphers without knowing the key.
