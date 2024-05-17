@@ -233,6 +233,7 @@ A lightweight, online service for when you don’t have the time, resources, or 
 
  - [AperiSolve](https://aperisolve.fr/) - Platform which performs layer analysis on images.
  - [BPStegano](https://github.com/TapanSoni/BPStegano) - Python3 based LSB steganography.
+ - [DeepSound](https://github.com/Jpinsoft/DeepSound) - Freeware steganography tool and audio converter that hides secret data into audio files.
  - [DTMF Detection](https://unframework.github.io/dtmf-detect/) - Audio frequencies common to a phone button.
  - [DTMF Tones](http://dialabc.com/sound/detect/index.html) - Audio frequencies common to a phone button.
  - [Exif](http://manpages.ubuntu.com/manpages/trusty/man1/exif.1.html) - Shows EXIF information in JPEG files.
