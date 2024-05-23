@@ -278,7 +278,7 @@ A lightweight, online service for when you don’t have the time, resources, or 
  - [debugHunter](https://github.com/devploit/debugHunter) - Discover hidden debugging parameters and uncover web application secrets.
  - [Dirhunt](https://github.com/Nekmo/dirhunt) - Find web directories without bruteforce.
  - [dirsearch](https://github.com/maurosoria/dirsearch) - Web path scanner.
- - [dontgo403](https://github.com/devploit/dontgo403) - Tool to bypass 40x errors.
+ - [nomore403](https://github.com/devploit/nomore403) - Tool to bypass 40x errors.
  - [ffuf](https://github.com/ffuf/ffuf) - Fast web fuzzer written in Go.
  - [git-dumper](https://github.com/arthaud/git-dumper) - A tool to dump a git repository from a website.
  - [Gopherus](https://github.com/tarunkant/Gopherus) - Tool that generates gopher link for exploiting SSRF and gaining RCE in various servers.
