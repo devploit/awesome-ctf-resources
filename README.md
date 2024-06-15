@@ -303,20 +303,32 @@ A lightweight, online service for when you don’t have the time, resources, or 
 
 *Always online CTFs*
 
+ - [0x0539](https://0x0539.net/) - Online CTF challenges.
  - [247CTF](https://247ctf.com/) - Free Capture The Flag Hacking Environment.
+ - [Archive.ooo](https://archive.ooo/) - Live, playable archive of DEF CON CTF challenges.
  - [Atenea](https://atenea.ccn-cert.cni.es/) - Spanish CCN-CERT CTF platform.
  - [CTFlearn](https://ctflearn.com/) - Online platform built to help ethical hackers learn, practice, and compete.
- - [CTF365](https://ctf365.com/) - Security Training Platform
+ - [CTF365](https://ctf365.com/) - Security Training Platform.
  - [Crackmes.One](https://crackmes.one/) - Reverse Engineering Challenges.
  - [CryptoHack](https://cryptohack.org/) - Cryptography Challenges.
- - [Cryptopals](https://cryptopals.com/) - Cryptography Challenges. 
+ - [Cryptopals](https://cryptopals.com/) - Cryptography Challenges.
+ - [Defend the Web](https://defendtheweb.net/?hackthis) - An Interactive Cyber Security Platform.
+ - [Dreamhack.io](https://dreamhack.io/wargame) - Online wargame.
  - [echoCTF.RED](https://echoctf.red/) - Online Hacking Laboratories.
+ - [Flagyard](https://flagyard.com/) - An Online Playground of Hands-on Cybersecurity Challenges.
+ - [HackBBS](https://hackbbs.org/index.php) - Online wargame.
  - [Hacker101](https://www.hacker101.com/) - CTF Platform by [HackerOne](https://www.hackerone.com/).
+ - [Hackropole](https://hackropole.fr/en/) - This platform allows you to replay the challenges of the France Cybersecurity Challenge.
  - [HackTheBox](https://www.hackthebox.com/) - A Massive Hacking Playground.
  - [HackThisSite](https://www.hackthissite.org/) - Free, safe and legal training ground for hackers.
+ - [HBH](https://hbh.sh/home) - Community designed to teach methods and tactics used by malicious hackers to access systems and sensitive information.
+ - [Komodo](http://ctf.komodosec.com/) - This is a game designed to challenge your application hacking skills.
  - [MicroCorruption](https://microcorruption.com/) - Embedded Security CTF.
+ - [MNCTF](https://mnctf.info/) - Online cybersecurity challenges.
  - [OverTheWire](https://overthewire.org/wargames/) - Wargame offered by the OverTheWire community.
  - [picoCTF](https://picoctf.org/) - Beginner-friendly CTF platform.
+ - [Pwn.college](https://pwn.college/) - Education platform to learn about, and practice, core cybersecurity concepts.
+ - [PWN.TN](https://pwn.tn/) - Educational and non commercial wargame.
  - [Pwnable.kr](http://pwnable.kr/) - Pwn/Exploiting platform.
  - [Pwnable.tw](https://pwnable.tw/) - Pwn/Exploiting platform.
  - [Pwnable.xyz](https://pwnable.xyz/) - Pwn/Exploiting platform.
@@ -328,11 +340,15 @@ A lightweight, online service for when you don’t have the time, resources, or 
  - [W3Challs](https://w3challs.com/) - Hacking/CTF platform.
  - [WebHacking](https://webhacking.kr/) - Web challenges platform.
  - [Websec.fr](http://websec.fr/) - Web challenges platform.
- - [WeChall](https://www.wechall.net/active_sites) - Challenge sites directory & forum
+ - [WeChall](https://www.wechall.net/active_sites) - Challenge sites directory & forum.
+ - [YEHD 2015](https://2015-yehd-ctf.meiji-ncc.tech/) - YEHD CTF 2015 online challenges.
 
 *Self-hosted CTFs*
 
+ - [AWSGoat](https://github.com/ine-labs/AWSGoat) - A Damn Vulnerable AWS Infrastructure.
+ - [CICD-goat](https://github.com/cider-security-research/cicd-goat) - A deliberately vulnerable CI/CD environment. Learn CI/CD security through multiple challenges.
  - [Damn Vulnerable Web Application](https://dvwa.co.uk/) - PHP/MySQL web application that is damn vulnerable.
+ - [GCPGoat](https://github.com/ine-labs/GCPGoat) - A Damn Vulnerable GCP Infrastructure.
  - [Juice Shop](https://github.com/juice-shop/juice-shop-ctf) - Capture-the-Flag (CTF) environment setup tools for OWASP Juice Shop. 
 
 ## Collaborative Tools
