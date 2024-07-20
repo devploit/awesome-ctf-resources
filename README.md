@@ -320,6 +320,7 @@ A lightweight, online service for when you don’t have the time, resources, or 
  - [Hacker101](https://www.hacker101.com/) - CTF Platform by [HackerOne](https://www.hackerone.com/).
  - [Hackropole](https://hackropole.fr/en/) - This platform allows you to replay the challenges of the France Cybersecurity Challenge.
  - [HackTheBox](https://www.hackthebox.com/) - A Massive Hacking Playground.
+ - [ParrotCTFs](https://parrot-ctfs.com/) - Jeopardy Style Hacking Playground. 
  - [HackThisSite](https://www.hackthissite.org/) - Free, safe and legal training ground for hackers.
  - [HBH](https://hbh.sh/home) - Community designed to teach methods and tactics used by malicious hackers to access systems and sensitive information.
  - [Komodo](http://ctf.komodosec.com/) - This is a game designed to challenge your application hacking skills.
