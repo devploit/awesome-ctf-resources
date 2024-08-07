@@ -110,6 +110,11 @@ Check [solve section for steganography](#steganography-1).
  - [yagu](https://sourceforge.net/projects/yafu/) - Automated integer factorization.
  - [Crackstation](https://crackstation.net/) - Hash cracker (database).
  - [Online Encyclopedia of Integer Sequences](https://oeis.org/) - OEIS: The On-Line Encyclopedia of Integer Sequences
+ - [Crib Drag](https://toolbox.lotusfa.com/crib_drag/) - OTP Crack
+ - [CHA:PAR:LIN:WOR](https://github.com/alex-bellon/ctf-challenges/tree/master/2021-spring/foreverctf/crypto-book-cipher) - Book Ciphers
+ - [Bacon Cipher](https://www.dcode.fr/bacon-cipher) - Lets burn the bacon
+ - [DH Key](https://cryptohack.org/challenges/diffie-hellman/) - Diffie-Hellman key exchange
+ - [Morse Code](https://morsecode.world/international/translator.html) - Generate Morse Code
 
 ## Exploiting / Pwn
 
