@@ -116,6 +116,14 @@ Check [solve section for steganography](#steganography-1).
  - [DH Key](https://cryptohack.org/challenges/diffie-hellman/) - Diffie-Hellman key exchange
  - [Morse Code](https://morsecode.world/international/translator.html) - Generate Morse Code
  - [Brain Fuck](https://www.dcode.fr/brainfuck-language) - Brain Fuck programming language
+ - [Dual Tone](http://dialabc.com/sound/detect/) - Dual Tone Decoder: find DTMF tones within audio clips
+ - [Substituition](https://www.dcode.fr/substitution-cipher) - Substituition Cipher
+ - [Hashcat](https://hashcat.net/hashcat/) – Password Cracker
+ - [John The Jumbo](https://github.com/magnumripper/JohnTheRipper) – Community enhanced version of John the Ripper
+ - [John The Ripper](http://www.openwall.com/john/) – Password Cracker
+ - [Nozzlr](https://github.com/intrd/nozzlr) – Nozzlr is a bruteforce framework, trully modular and script-friendly.
+ - [Ophcrack](http://ophcrack.sourceforge.net/) – Windows password cracker based on rainbow tables.
+ - [Patator](https://github.com/lanjelot/patator) – Patator is a multi-purpose brute-forcer, with a modular design.
 
 ## Exploiting / Pwn
 
