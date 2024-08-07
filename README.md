@@ -115,6 +115,7 @@ Check [solve section for steganography](#steganography-1).
  - [Bacon Cipher](https://www.dcode.fr/bacon-cipher) - Lets burn the bacon
  - [DH Key](https://cryptohack.org/challenges/diffie-hellman/) - Diffie-Hellman key exchange
  - [Morse Code](https://morsecode.world/international/translator.html) - Generate Morse Code
+ - [Brain Fuck](https://www.dcode.fr/brainfuck-language) - Brain Fuck programming language
 
 ## Exploiting / Pwn
 
