@@ -250,7 +250,7 @@ A lightweight, online service for when you don’t have the time, resources, or 
  - [Pngtools](https://packages.debian.org/sid/pngtools) - For various analysis related to PNGs.
  - [sigBits](https://github.com/Pulho/sigBits) - Steganography significant bits image decoder.
  - [SmartDeblur](https://github.com/Y-Vladimir/SmartDeblur) - Restoration of defocused and blurred photos/images.
- - [Snow](https://sbmlabs.com/notes/snow_whitespace_steganography_tool) - Whitespace Steganography Tool
+ - [Snow](https://darkside.com.au/snow/) - Whitespace Steganography Tool
  - [Sonic Visualizer](https://www.sonicvisualiser.org/) - Audio file visualization.
  - [Steganography Online](https://stylesuxx.github.io/steganography/) - Online steganography encoder and decoder.
  - [Stegbreak](https://linux.die.net/man/1/stegbreak) - Launches brute-force dictionary attacks on JPG image.
