@@ -110,6 +110,20 @@ Check [solve section for steganography](#steganography-1).
  - [yagu](https://sourceforge.net/projects/yafu/) - Automated integer factorization.
  - [Crackstation](https://crackstation.net/) - Hash cracker (database).
  - [Online Encyclopedia of Integer Sequences](https://oeis.org/) - OEIS: The On-Line Encyclopedia of Integer Sequences
+ - [Crib Drag](https://toolbox.lotusfa.com/crib_drag/) - OTP Crack
+ - [CHA:PAR:LIN:WOR](https://github.com/alex-bellon/ctf-challenges/tree/master/2021-spring/foreverctf/crypto-book-cipher) - Book Ciphers
+ - [Bacon Cipher](https://www.dcode.fr/bacon-cipher) - Lets burn the bacon
+ - [DH Key](https://cryptohack.org/challenges/diffie-hellman/) - Diffie-Hellman key exchange
+ - [Morse Code](https://morsecode.world/international/translator.html) - Generate Morse Code
+ - [Brain Fuck](https://www.dcode.fr/brainfuck-language) - Brain Fuck programming language
+ - [Dual Tone](http://dialabc.com/sound/detect/) - Dual Tone Decoder: find DTMF tones within audio clips
+ - [Substituition](https://www.dcode.fr/substitution-cipher) - Substituition Cipher
+ - [Hashcat](https://hashcat.net/hashcat/) – Password Cracker
+ - [John The Jumbo](https://github.com/magnumripper/JohnTheRipper) – Community enhanced version of John the Ripper
+ - [John The Ripper](http://www.openwall.com/john/) – Password Cracker
+ - [Nozzlr](https://github.com/intrd/nozzlr) – Nozzlr is a bruteforce framework, trully modular and script-friendly.
+ - [Ophcrack](http://ophcrack.sourceforge.net/) – Windows password cracker based on rainbow tables.
+ - [Patator](https://github.com/lanjelot/patator) – Patator is a multi-purpose brute-forcer, with a modular design.
 
 ## Exploiting / Pwn
 
