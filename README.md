@@ -338,6 +338,7 @@ A lightweight, online service for when you don’t have the time, resources, or 
  - [VibloCTF](https://ctf.viblo.asia/landing) - CTF training platform.
  - [VulnHub](https://www.vulnhub.com/) - VM-based pentesting platform.
  - [W3Challs](https://w3challs.com/) - Hacking/CTF platform.
+ - [Wargames BataMladen](https://wargames.batamladen.com/) - Wargame challenge scenarios, each with different levels.
  - [WebHacking](https://webhacking.kr/) - Web challenges platform.
  - [Websec.fr](http://websec.fr/) - Web challenges platform.
  - [WeChall](https://www.wechall.net/active_sites) - Challenge sites directory & forum.
