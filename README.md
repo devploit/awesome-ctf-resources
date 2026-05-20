@@ -332,6 +332,7 @@ A lightweight, online service for when you don’t have the time, resources, or 
  - [MicroCorruption](https://microcorruption.com/) - Embedded Security CTF.
  - [MNCTF](https://mnctf.info/) - Online cybersecurity challenges.
  - [OverTheWire](https://overthewire.org/wargames/) - Wargame offered by the OverTheWire community.
+ - [OSINT Arena](https://osintarena.com) - Geoguessr for OSINT Investigations - challenge the OSINT community and climb the leaderboard.
  - [picoCTF](https://picoctf.org/) - Beginner-friendly CTF platform.
  - [Pwn.college](https://pwn.college/) - Education platform to learn about, and practice, core cybersecurity concepts.
  - [PWN.TN](https://pwn.tn/) - Educational and non commercial wargame.
