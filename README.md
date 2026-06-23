@@ -313,6 +313,7 @@ A lightweight, online service for when you don’t have the time, resources, or 
  - [247CTF](https://247ctf.com/) - Free Capture The Flag Hacking Environment.
  - [Archive.ooo](https://archive.ooo/) - Live, playable archive of DEF CON CTF challenges.
  - [Atenea](https://atenea.ccn-cert.cni.es/) - Spanish CCN-CERT CTF platform.
+ - [Break The Prompt](https://breaktheprompt.xyz/) - AI prompt injection CTF with challenges focused on bypassing LLM guardrails and jailbreaking prompts.
  - [CTFlearn](https://ctflearn.com/) - Online platform built to help ethical hackers learn, practice, and compete.
  - [CTF365](https://ctf365.com/) - Security Training Platform.
  - [Crackmes.One](https://crackmes.one/) - Reverse Engineering Challenges.
