@@ -108,6 +108,7 @@ Check [solve section for steganography](#steganography-1).
  - [RSATool](https://github.com/ius/rsatool) - Tool to to calculate RSA and RSA-CRT parameter.
  - [Rumkin Cipher Tools](http://rumkin.com/tools/cipher/) - Collection of ciphhers/encoders tools.
  - [Substitution Cipher](https://www.dcode.fr/substitution-cipher) - Substitution cipher solver.
+ - [Text Machine](https://textmachine.org/) - Free in-browser classical-cipher encoders/decoders (Bazeries, Chaocipher, Straddling Checkerboard, and more).
  - [Vigenere Solver](https://www.guballa.de/vigenere-solver) - Online tool that breaks Vigenère ciphers without knowing the key.
  - [XOR Cracker](https://wiremask.eu/tools/xor-cracker/) - Online XOR decryption tool able to guess the key length and the cipher key to decrypt any file.
  - [XORTool](https://github.com/hellman/xortool) - A tool to analyze multi-byte xor cipher.
