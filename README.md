@@ -212,6 +212,7 @@ Check [solve section for steganography](#steganography-1).
 A lightweight, online service for when you don’t have the time, resources, or requirements to use a heavier-weight alternative.
  - [dnSpy](https://github.com/dnSpy/dnSpy) - .NET debugger and assembly editor.
  - [EasyPythonDecompiler](https://sourceforge.net/projects/easypythondecompiler/) - A small .exe GUI application that will "decompile" Python bytecode, often seen in .pyc extension.
+ - [fnprint](https://github.com/1rhino2/fnprint) - Fingerprints functions by behavior (microexecution) to name them in stripped binaries and patch-diff builds.
  - [Frida](https://github.com/frida/) - Dynamic instrumentation toolkit for developers, reverse-engineers, and security researchers.
  - [GDB](https://www.gnu.org/software/gdb/) - The GNU Project debugger.
  - [GEF](https://github.com/hugsy/gef) - A modern experience for GDB with advanced debugging features for exploit developers & reverse engineers.
