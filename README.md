@@ -327,16 +327,16 @@ A lightweight, online service for when you don’t have the time, resources, or 
  - [Hacker101](https://www.hacker101.com/) - CTF Platform by [HackerOne](https://www.hackerone.com/).
  - [Hackropole](https://hackropole.fr/en/) - This platform allows you to replay the challenges of the France Cybersecurity Challenge.
  - [HackTheBox](https://www.hackthebox.com/) - A Massive Hacking Playground.
- - [ParrotCTFs](https://parrot-ctfs.com/) - Jeopardy Style Hacking Playground. 
  - [HackThisSite](https://www.hackthissite.org/) - Free, safe and legal training ground for hackers.
  - [HBH](https://hbh.sh/home) - Community designed to teach methods and tactics used by malicious hackers to access systems and sensitive information.
  - [Komodo](http://ctf.komodosec.com/) - This is a game designed to challenge your application hacking skills.
  - [MicroCorruption](https://microcorruption.com/) - Embedded Security CTF.
  - [MNCTF](https://mnctf.info/) - Online cybersecurity challenges.
- - [OverTheWire](https://overthewire.org/wargames/) - Wargame offered by the OverTheWire community.
- - [OSINT Arena](https://osintarena.com) - Geoguessr for OSINT Investigations - challenge the OSINT community and climb the leaderboard.
- - [picoCTF](https://picoctf.org/) - Beginner-friendly CTF platform.
  - [OOPS!](https://oops.codes/) - Hands-on offensive-security labs with real vulnerable apps, real terminals, real exploitation (no scripted answers), per-session isolated Fargate sandboxes.
+ - [OSINT Arena](https://osintarena.com) - Geoguessr for OSINT Investigations - challenge the OSINT community and climb the leaderboard.
+ - [OverTheWire](https://overthewire.org/wargames/) - Wargame offered by the OverTheWire community.
+ - [ParrotCTFs](https://parrot-ctfs.com/) - Jeopardy Style Hacking Playground. 
+ - [picoCTF](https://picoctf.org/) - Beginner-friendly CTF platform.
  - [Pwn.college](https://pwn.college/) - Education platform to learn about, and practice, core cybersecurity concepts.
  - [PWN.TN](https://pwn.tn/) - Educational and non commercial wargame.
  - [Pwnable.kr](http://pwnable.kr/) - Pwn/Exploiting platform.
