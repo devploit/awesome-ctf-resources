@@ -336,6 +336,7 @@ A lightweight, online service for when you don’t have the time, resources, or 
  - [OverTheWire](https://overthewire.org/wargames/) - Wargame offered by the OverTheWire community.
  - [OSINT Arena](https://osintarena.com) - Geoguessr for OSINT Investigations - challenge the OSINT community and climb the leaderboard.
  - [picoCTF](https://picoctf.org/) - Beginner-friendly CTF platform.
+ - [OOPS!](https://oops.codes/) - Hands-on offensive-security labs with real vulnerable apps, real terminals, real exploitation (no scripted answers), per-session isolated Fargate sandboxes.
  - [Pwn.college](https://pwn.college/) - Education platform to learn about, and practice, core cybersecurity concepts.
  - [PWN.TN](https://pwn.tn/) - Educational and non commercial wargame.
  - [Pwnable.kr](http://pwnable.kr/) - Pwn/Exploiting platform.
