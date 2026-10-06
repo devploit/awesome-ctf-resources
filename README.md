@@ -263,6 +263,7 @@ A lightweight, online service for when you don’t have the time, resources, or 
  - [StegCracker](https://github.com/Paradoxis/StegCracker) - Brute-force utility to uncover hidden data inside files.
  - [stegextract](https://github.com/evyatarmeged/stegextract) - Detect hidden files and text in images.
  - [Steghide](http://steghide.sourceforge.net/) - Hide data in various kinds of image- and audio-files.
+ - [StegInsight](https://lakesnowtech.com/steginsight/) - iOS steganography analysis tool for CTF and security workflows.
  - [StegOnline](https://stegonline.georgeom.net/) - Conduct a wide range of image steganography operations, such as concealing/revealing files hidden within bits.
  - [Stegosaurus](https://github.com/AngelKitty/stegosaurus) - A steganography tool for embedding payloads within Python bytecode.
  - [StegoVeritas](https://github.com/bannsec/stegoVeritas) - Yet another stego tool.
