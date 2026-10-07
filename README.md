@@ -46,6 +46,7 @@ Any contribution is welcome, send me a PR! ❤️
 
  - [CTFd](https://github.com/CTFd/CTFd) - Platform to host jeopardy style CTFs.
  - [FBCTF](https://github.com/facebookarchive/fbctf) - Facebook CTF platform to host Jeopardy and "King of the Hill" CTF competitions.
+ - [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - GPL-3.0 autonomous penetration testing platform: per-technology agents, 80+ tools, proof-based findings, and a privacy gateway that keeps target data from the model.
  - [HackTheArch](https://github.com/mcpa-stlouis/hack-the-arch) - Scoring server for CTF competitions.
  - [kCTF](https://github.com/google/kctf) - Kubernetes-based infrastructure for CTF competitions.
  - [LibreCTF](https://github.com/easyctf/librectf) - CTF platform from EasyCTF.
