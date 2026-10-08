@@ -87,6 +87,7 @@ Check [solve section for steganography](#steganography-1).
  - [Base65536](https://github.com/qntm/base65536) - Unicode's answer to Base64.
  - [Braille Translator](https://www.branah.com/braille-translator) - Translate from braille to text.
  - [Ciphey](https://github.com/Ciphey/Ciphey) - Tool to automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes.
+ - [Classical Ciphers](https://lakesnowtech.com/classical-ciphers/) - iOS app for classical cipher encryption and decryption practice.
  - [Crib Drag](https://toolbox.lotusfa.com/crib_drag/) - One-Time Pad (OTP) cracking tool.
  - [CyberChef](https://gchq.github.io/CyberChef/) - A web app for encryption, encoding, compression and data analysis.
  - [Cryptii](https://cryptii.com/) - Modular conversion, encoding and encryption online.
