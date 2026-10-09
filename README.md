@@ -228,6 +228,7 @@ A lightweight, online service for when you don’t have the time, resources, or 
  - [PEfile](https://github.com/erocarrera/pefile) - Python module to read and work with PE (Portable Executable) files.
  - [Pwndbg](https://github.com/pwndbg/pwndbg) - Exploit Development and Reverse Engineering with GDB Made Easy.
  - [radare2](https://github.com/radareorg/radare2) - UNIX-like reverse engineering framework and command-line toolset.
+ - [REA](https://github.com/morluto/rea) - Local CLI and MCP tools for agent-assisted binary analysis, with evidence provenance; native deep analysis uses separately installed Hopper, Ghidra, or IDA.
  - [Rizin](https://github.com/rizinorg/rizin) - Rizin is a fork of the radare2 reverse engineering framework with a focus on usability, working features and code cleanliness.
  - [Uncompyle](https://github.com/gstarnberger/uncompyle) -  A Python 2.7 byte-code decompiler (.pyc)
  - [WinDBG](http://www.windbg.org/) - Windows debugger distributed by Microsoft.
