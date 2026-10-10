@@ -367,6 +367,7 @@ A lightweight, online service for when you don’t have the time, resources, or 
 ## Collaborative Tools
 
  - [CTFNote](https://github.com/TFNS/CTFNote) - Collaborative tool aiming to help CTF teams to organise their work.
+ - [ZeroBox](https://github.com/0xdnd/ctf-tracker) - Free offline-first tactical CTF lab tracker, payload generator, and writeup studio.
 
 ## Writeups Repositories
 
