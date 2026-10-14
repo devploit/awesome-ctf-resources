@@ -86,6 +86,7 @@ Check [solve section for steganography](#steganography-1).
  - [Bacon Cipher](https://www.dcode.fr/bacon-cipher) - Bacon cipher encoder and decoder.
  - [Base65536](https://github.com/qntm/base65536) - Unicode's answer to Base64.
  - [Braille Translator](https://www.branah.com/braille-translator) - Translate from braille to text.
+ - [CaesarCipher.org](https://caesarcipher.org/) - Browser-based classical cipher encoders, decoders, identification and letter-frequency analysis tools for puzzles and beginner CTF practice.
  - [Ciphey](https://github.com/Ciphey/Ciphey) - Tool to automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes.
  - [Crib Drag](https://toolbox.lotusfa.com/crib_drag/) - One-Time Pad (OTP) cracking tool.
  - [CyberChef](https://gchq.github.io/CyberChef/) - A web app for encryption, encoding, compression and data analysis.
