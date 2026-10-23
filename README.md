@@ -85,6 +85,7 @@ Check [solve section for steganography](#steganography-1).
 
  - [Bacon Cipher](https://www.dcode.fr/bacon-cipher) - Bacon cipher encoder and decoder.
  - [Base65536](https://github.com/qntm/base65536) - Unicode's answer to Base64.
+ - [Benchvale Developer Tool Chain](https://benchvale.com/dev/chain) - Runs base64, URL, JSON and SHA-256 steps in sequence on one paste, in the browser, and shows what each step produced.
  - [Braille Translator](https://www.branah.com/braille-translator) - Translate from braille to text.
  - [Ciphey](https://github.com/Ciphey/Ciphey) - Tool to automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes.
  - [Crib Drag](https://toolbox.lotusfa.com/crib_drag/) - One-Time Pad (OTP) cracking tool.
