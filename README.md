@@ -346,6 +346,7 @@ A lightweight, online service for when you don’t have the time, resources, or 
  - [PWNChallenge](http://pwn.eonew.cn/) - Pwn/Exploiting platform.
  - [Reversing.kr](http://reversing.kr/) - Reverse Engineering platform.
  - [Root-me](https://www.root-me.org/) - CTF training platform.
+ - [Silicyte Grader Wargame](https://github.com/braxtonmensah/silicyte-grader-wargame) - Bandit-style wargame where you make biology eval graders accept wrong answers, played by pull request.
  - [VibloCTF](https://ctf.viblo.asia/landing) - CTF training platform.
  - [VulnHub](https://www.vulnhub.com/) - VM-based pentesting platform.
  - [W3Challs](https://w3challs.com/) - Hacking/CTF platform.
