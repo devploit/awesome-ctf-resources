@@ -269,8 +269,8 @@ A lightweight, online service for when you don’t have the time, resources, or 
  - [Steghide](http://steghide.sourceforge.net/) - Hide data in various kinds of image- and audio-files.
  - [StegInsight](https://lakesnowtech.com/steginsight/) - iOS steganography analysis tool for CTF and security workflows.
  - [StegOnline](https://stegonline.georgeom.net/) - Conduct a wide range of image steganography operations, such as concealing/revealing files hidden within bits.
- - [STEGO·STUDIO](https://stegostudio.com/) - Client-side image steganography and forensics tool for hiding, analyzing, and recovering hidden data, with support for several third-party steganography formats. Runs entirely in the browser and works offline.
  - [Stegosaurus](https://github.com/AngelKitty/stegosaurus) - A steganography tool for embedding payloads within Python bytecode.
+ - [STEGO·STUDIO](https://stegostudio.com/) - Client-side image steganography and forensics tool for hiding, analyzing, and recovering hidden data, with support for several third-party steganography formats. Runs entirely in the browser and works offline.
  - [StegoVeritas](https://github.com/bannsec/stegoVeritas) - Yet another stego tool.
  - [Stegpy](https://github.com/dhsdshdhk/stegpy) - Simple steganography program based on the LSB method.
  - [stegseek](https://github.com/RickdeJager/stegseek) - Lightning fast steghide cracker that can be used to extract hidden data from files. 
