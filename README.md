@@ -315,6 +315,7 @@ A lightweight, online service for when you don’t have the time, resources, or 
  - [Archive.ooo](https://archive.ooo/) - Live, playable archive of DEF CON CTF challenges.
  - [Atenea](https://atenea.ccn-cert.cni.es/) - Spanish CCN-CERT CTF platform.
  - [Break The Prompt](https://breaktheprompt.xyz/) - AI prompt injection CTF with challenges focused on bypassing LLM guardrails and jailbreaking prompts.
+ - [Breakpoint](https://breakpoint.games/ctf) - Hand-reviewed directory of always-online CTFs and wargames, free and paid, with links checked every 12 hours.
  - [CTFlearn](https://ctflearn.com/) - Online platform built to help ethical hackers learn, practice, and compete.
  - [CTF365](https://ctf365.com/) - Security Training Platform.
  - [Crackmes.One](https://crackmes.one/) - Reverse Engineering Challenges.
@@ -323,7 +324,10 @@ A lightweight, online service for when you don’t have the time, resources, or 
  - [Defend the Web](https://defendtheweb.net/?hackthis) - An Interactive Cyber Security Platform.
  - [Dreamhack.io](https://dreamhack.io/wargame) - Online wargame.
  - [echoCTF.RED](https://echoctf.red/) - Online Hacking Laboratories.
+ - [Ethernaut](https://ethernaut.openzeppelin.com/) - Smart contract hacking wargame by OpenZeppelin, one Solidity level at a time.
+ - [Exploit Education](https://exploit.education/) - Downloadable VMs with Linux exploitation levels (Phoenix, Nebula, Fusion and more).
  - [Flagyard](https://flagyard.com/) - An Online Playground of Hands-on Cybersecurity Challenges.
+ - [flAWS](http://flaws.cloud/) - AWS misconfiguration challenges where each level gives you the way into the next.
  - [HackBBS](https://hackbbs.org/index.php) - Online wargame.
  - [Hacker101](https://www.hacker101.com/) - CTF Platform by [HackerOne](https://www.hackerone.com/).
  - [Hackropole](https://hackropole.fr/en/) - This platform allows you to replay the challenges of the France Cybersecurity Challenge.
@@ -346,6 +350,8 @@ A lightweight, online service for when you don’t have the time, resources, or 
  - [PWNChallenge](http://pwn.eonew.cn/) - Pwn/Exploiting platform.
  - [Reversing.kr](http://reversing.kr/) - Reverse Engineering platform.
  - [Root-me](https://www.root-me.org/) - CTF training platform.
+ - [ROP Emporium](https://ropemporium.com/) - Return-oriented programming challenges, with small binaries for several architectures.
+ - [TryHackMe](https://tryhackme.com/) - Guided security rooms with an attack machine that runs in your browser.
  - [VibloCTF](https://ctf.viblo.asia/landing) - CTF training platform.
  - [VulnHub](https://www.vulnhub.com/) - VM-based pentesting platform.
  - [W3Challs](https://w3challs.com/) - Hacking/CTF platform.
