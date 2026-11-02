@@ -390,6 +390,7 @@ A lightweight, online service for when you don’t have the time, resources, or 
 ## Courses
 
  - [Roppers Bootcamp](https://www.roppers.org/courses/ctf) - CTF Bootcamp.
+ - [pwn.guide](https://pwn.guide/) - Hands-on ethical hacking tutorials on web, wireless and hardware hacking, forensics and defense, many of them free.
 
 # 0x03. Bibliography
 
