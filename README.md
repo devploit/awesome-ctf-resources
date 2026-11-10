@@ -147,6 +147,7 @@ Check [solve section for steganography](#steganography-1).
  - [Foremost](http://foremost.sourceforge.net/) - Console program to recover files based on their headers, footers, and internal data structures.
  - [Forensic Toolkit](https://www.exterro.com/forensic-toolkit) - It scans a hard drive looking for various information. It can, potentially locate deleted emails and scan a disk for text strings to use them as a password dictionary to crack encryption.
  - [Forensically](https://29a.ch/photo-forensics/#forensic-magnifier) - Free online tool to analysis image this tool has many features.
+ - [Hex Viewer Online](https://theluckystrike.github.io/zovo-plugin-factory/tools/hex-viewer/) - View any file as hex and text in the browser, with a data inspector, find and a structure view for 26 formats. The file is not uploaded.
  - [MZCacheView](https://www.nirsoft.net/utils/mozilla_cache_viewer.html) - Small utility that reads the cache folder of Firefox/Mozilla/Netscape Web browsers, and displays the list of all files currently stored in the cache.
  - [NetworkMiner](https://www.netresec.com/index.ashx?page=NetworkMiner)  Network Forensic Analysis Tool (NFAT).
  - [OfflineRegistryView](https://www.nirsoft.net/utils/offline_registry_view.html) - Simple tool for Windows that allows you to read offline Registry files from external drive.
