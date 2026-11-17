@@ -390,6 +390,7 @@ A lightweight, online service for when you don’t have the time, resources, or 
 
 ## Courses
 
+ - [RansomLeak Application Security](https://ransomleak.com/catalogue/application-security/) - Free browser-based exercises for exploiting and fixing the OWASP Top 10.
  - [Roppers Bootcamp](https://www.roppers.org/courses/ctf) - CTF Bootcamp.
 
 # 0x03. Bibliography
