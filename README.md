@@ -297,6 +297,7 @@ A lightweight, online service for when you don’t have the time, resources, or 
  - [Gopherus](https://github.com/tarunkant/Gopherus) - Tool that generates gopher link for exploiting SSRF and gaining RCE in various servers.
  - [Hookbin](https://hookbin.com/) - Free service that enables you to collect, parse, and view HTTP requests.
  - [JSFiddle](https://jsfiddle.net/) - Test your JavaScript, CSS, HTML or CoffeeScript online with JSFiddle code editor.
+ - [NextJSON](https://nextjson.com/) - Free online nested JSON parser and formatter for inspecting JSON responses and API payloads in web challenges.
  - [ngrok](https://ngrok.com/) - Secure introspectable tunnels to localhost.
  - [OWASP Zap](https://owasp.org/www-project-zap/) - Intercepting proxy to replay, debug, and fuzz HTTP requests and responses.
  - [PHPGGC](https://github.com/ambionics/phpggc) - Library of PHP unserialize() payloads along with a tool to generate them, from command line or programmatically.
