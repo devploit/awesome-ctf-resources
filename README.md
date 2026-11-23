@@ -307,6 +307,7 @@ A lightweight, online service for when you don’t have the time, resources, or 
  - [Revelo](http://www.kahusecurity.com/posts/revelo_javascript_deobfuscator.html) - Analyze obfuscated Javascript code.
  - [Smuggler](https://github.com/defparam/smuggler) -  An HTTP Request Smuggling / Desync testing tool written in Python3.
  - [SQLMap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool.
+ - [VibeShield](https://vibe-checker.appwrite.network/) - Free zero-login passive 116-check web security scanner for client JS bundle secrets, HTTP headers, CSP, sensitive paths, and Supabase/Firebase exposure.
  - [W3af](https://github.com/andresriancho/w3af) - Web application attack and audit framework.
  - [XSSer](https://xsser.03c8.net/) - Automated XSS testor.
  - [ysoserial](https://github.com/frohoff/ysoserial) - Tool for generating payloads that exploit unsafe Java object deserialization.
